@@ -1,0 +1,24 @@
+body{
+background: rgba(10, 59, 4, 0.76);
+}
+h1{
+    color: rgb(5, 40, 145);
+    text-align: center;
+    font-family: cursive;
+    
+}
+h2{
+    color: rgb(139, 0, 105);
+    text-align: center;
+    font-family: cursive;
+   
+}
+li{
+    color: rgb(199, 93, 1);
+    font-family:cursive ;
+    font-size:x-large;
+   
+}
+*{
+    border:solid;
+}
